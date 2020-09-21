@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+    <string name="prev">PREV</string>
+    <string name="next">NEXT</string>
+    <string name="sanna">Sanna is the Capital of Yemen?</string>
+    <string name="cairo">Cairo Castel is In Taiz?</string>
+    <string name="aden">Aden Gulf is In Hodidah?</string>
+    <string name="ibb">IBB is an a green Land?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+</resources>
